@@ -1,3 +1,1 @@
-### Hi there 👋
-
-[![stats](https://github-readme-stats.vercel.app/api?username=towindback)](https://github.com/towindback)
+![github contribution grid snake animation](https://raw.githubusercontent.com/towindback/towindback/output/assets/github-contribution-grid-snake.svg)
