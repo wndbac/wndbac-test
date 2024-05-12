@@ -1,3 +1,5 @@
+## 公告
+账号已全权交由 [@TaleFou](https://github.com/TaleFou) 管理。
 ## 最近文章
 <!-- BLOG-POST-LIST:START -->
 - [优化站点访问速](https://wndbac.cn/c6a56fac/)
